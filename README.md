@@ -1,4 +1,4 @@
-# EasyLogic Studio
+# EasyLogic Studio （中文版）
 
 
 EasyLogic Studio is built using CSS and SVG to reduce the gap between web design and code. The goal is to have the same point in time between the designer's design and the developer's output.
